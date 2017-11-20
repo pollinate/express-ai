@@ -1,7 +1,7 @@
 "use strict";
 exports.__esModule = true;
 require('es6-shim');
-var Logger = (function () {
+var Logger = /** @class */ (function () {
     function Logger(ai) {
         this.ai = ai;
     }
